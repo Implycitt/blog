@@ -1,6 +1,6 @@
 # NAS
 
-A couple months back I got my hands on the old family computer. It isn't very powerful:
+A couple months back, I got my hands on the old family computer. It isn't very powerful:
 ```sh
          .://:`              `://:.             root@proxmox
        `hMMMMMMd/          /dMMMMMMh`           ------------
