@@ -53,4 +53,3 @@ $$
 $$
 
 There are also additional winning configurations which involve the addition of the null vectors from $A$. These can be computed and the vector with the smallest sum of components can be used as the most efficient solution to the given configuration.
-
